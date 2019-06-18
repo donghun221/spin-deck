@@ -1,1 +1,1 @@
-FROM gcr.io/spinnaker-marketplace/deck:2.6.5-20190128135214
+FROM gcr.io/spinnaker-marketplace/deck:2.7.11-20190605125447
